@@ -1,5 +1,5 @@
 
-# Portfolio for Micro It Internship 
+# Portfolio 
 
 
 #name: Sumanth  kumar
